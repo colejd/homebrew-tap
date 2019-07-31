@@ -3,7 +3,7 @@ class OverrideIosSimulatorStatus < Formula
   desc "A command line tool for overriding the status bar state on all open iOS simulators."
   homepage "https://github.com/colejd/Override-iOS-Simulator-Status"
   url "https://github.com/colejd/Override-iOS-Simulator-Status/raw/master/bin/override_ios_simulator_status-1.0.0.tar.gz"
-  sha256 "b616fb38575e344c2f322d391283493c1e313e22057b4237e520fadcc7a50126"
+  sha256 "94e068e83e5278efb14a20f5ea72c33cd162141aea6c39da99ea5b0d1616fbea"
   version "1.0.0" 
 
   def install
