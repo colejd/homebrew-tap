@@ -1,4 +1,4 @@
-class Override_iOS_Simulator_Status < Formula
+class override_ios_simulator_status < Formula
 
   desc "A command line tool for overriding the status bar state on all open iOS simulators."
   homepage "https://github.com/colejd/Override-iOS-Simulator-Status"
